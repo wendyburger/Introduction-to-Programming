@@ -3,5 +3,3 @@ def scream(words)
   return
   puts words
 end
-
-scream("Yippeee")
